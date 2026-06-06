@@ -34,7 +34,7 @@ STEMate is an AI-powered web app that acts as a personal STEM tutor for every st
 ### 1. Clone the repo
 
 ```
-git clone https://github.com/yourusername/stemate.git
+git clone https://github.com/Aiswaryaachu25/STEMate.git
 cd stemate
 ```
 
@@ -50,7 +50,7 @@ Create server/.env file:
 ```
 PORT=5000
 DB_URL=mongodb://localhost:27017/stemate
-GROQ_API_KEY=your_groq_api_key_here
+GROQ_API_KEY= .....
 ```
 
 Run backend:
